@@ -1,0 +1,1 @@
+Tarea hecha en Visual studio 2019, se utilizo nuget para importar los package(nupet y glm)
